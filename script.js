@@ -13,6 +13,7 @@ add.addEventListener("click", function () {
   }
   else{
     alert("LLegaste al limite del contador, no puedes ir arriba de 10")
+    resultado =0;
   }
 });
 
